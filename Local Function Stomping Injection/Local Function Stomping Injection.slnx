@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Local Function Stomping Injection/Local Function Stomping Injection.vcxproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IAT_Hiding_Obfuscation/IAT_Hiding_Obfuscation.vcxproj" Id="9b264bee-5617-4c81-8109-dbbd83a88c2d" />
+</Solution>

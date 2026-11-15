@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Remote Mapping Injection/Remote Mapping Injection.vcxproj" Id="9bbd2c46-a39b-47fd-a65f-099923bb1f97" />
+</Solution>

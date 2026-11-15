@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="callbackcodeexecution/callbackcodeexecution.vcxproj" Id="faf49d95-8988-44f7-9993-3238e2796407" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="findandhijackthread/findandhijackthread.vcxproj" Id="3a8c5f9c-22e1-42b0-b25b-d74571e79ef0" />
+</Solution>

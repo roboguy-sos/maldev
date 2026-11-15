@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Remote Function Stomping Injection/Remote Function Stomping Injection.vcxproj" Id="8c75fe89-485f-48a1-a677-9ea7b4b4822b" />
+</Solution>

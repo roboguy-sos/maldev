@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="APCinjection/APCinjection.vcxproj" Id="62935b0a-36be-4402-8ea2-7fd7f36da167" />
+</Solution>
