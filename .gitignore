@@ -1,0 +1,42 @@
+# --- Secrets: never commit ---
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_ed25519*
+id_rsa*
+.netrc
+*.kdbx
+
+# --- Build output / binaries ---
+dist/
+build/
+out/
+bin/
+*.exe
+*.dll
+*.sys
+*.o
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- Logs / OS cruft ---
+*.log
+.DS_Store
+Thumbs.db
+
+# --- Editors / tooling state ---
+.vscode/
+.idea/
+*.swp
