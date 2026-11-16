@@ -18,6 +18,7 @@ maldev/
 ├── callbackcodeexecution/
 ├── EarlybirdAPCinjection/
 ├── findandhijackthread/
+├── Hardware_Breakpoints_For_Hookin/   # Makefile + src/ (clang++ cross-build)
 ├── IAT_Hiding_Obfuscation/            # + helper .py scripts
 ├── Local Function Stomping Injection/
 ├── Local Mapping Injection/
@@ -55,6 +56,7 @@ Conventions and notes:
 | `callbackcodeexecution/` | MSVC solution | `callbackcodeexecution/main.cpp` |
 | `EarlybirdAPCinjection/` | MSVC solution | `EarlybirdAPCinjection/main.cpp` |
 | `findandhijackthread/` | MSVC solution | `findandhijackthread/main.cpp`, `Source.cpp` |
+| `Hardware_Breakpoints_For_Hookin/` | Makefile (clang++ → Windows x64) | `src/main.cpp` |
 | `IAT_Hiding_Obfuscation/` | MSVC solution (+ Python helpers) | `IAT_Hiding_Obfuscation/main.cpp`, `encrypt_payload.py`, `hashgen.py` |
 | `Local Function Stomping Injection/` | MSVC solution | `Local Function Stomping Injection/main.cpp` |
 | `Local Mapping Injection/` | MSVC solution | `Local Mapping Injection/main.cpp` |
